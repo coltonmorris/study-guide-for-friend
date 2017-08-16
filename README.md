@@ -3,12 +3,12 @@ Because it is such a huge task to learn the current front-end technologies, ther
 ### Reading Habits 
 ---
 I personally like to read from these sites to stay up to date and learn about new technologies and news:
--[programming subreddit](reddit.com/r/programming)
--[reactjs subreddit](reddit.com/r/reactjs)
--[le epic memes](reddit.com/r/ProgrammerHumor)
--[hacker news](https://news.ycombinator.com/)
+- [programming subreddit](reddit.com/r/programming)
+- [reactjs subreddit](reddit.com/r/reactjs)
+- [le epic memes](reddit.com/r/ProgrammerHumor)
+- [hacker news](https://news.ycombinator.com/)
 
-### Essentials (a somewhat recommended order)
+### Essentials (a somewhat recommended orderj
 ---
 - [git](https://try.github.io/levels/1/challenges/1)
 - [Read this for a good understanding of where Javascript is used](https://medium.com/@bojzi/overview-of-the-javascript-ecosystem-8ec4a0b7a7be)
