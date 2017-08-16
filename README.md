@@ -8,13 +8,14 @@ I personally like to read from these sites to stay up to date and learn about ne
 - [le epic memes](reddit.com/r/ProgrammerHumor)
 - [hacker news](https://news.ycombinator.com/)
 
-### Essentials (a somewhat recommended orderj
+### Essentials (a somewhat recommended order)
 ---
 - [git](https://try.github.io/levels/1/challenges/1)
 - [Read this for a good understanding of where Javascript is used](https://medium.com/@bojzi/overview-of-the-javascript-ecosystem-8ec4a0b7a7be)
 - [javascript](https://javascript.info/)
 - [npm](https://www.tutorialspoint.com/nodejs/nodejs_npm.htm)
 - [HTML DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [An article you should read to exercise your pessimism, but it is also a good overview of the ecosystem](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 - [React. An understanding of the DOM and Javascript is crucial to learning React.](https://facebook.github.io/react/)
 - [Create React App. This is just a helpful library that simplifies configuring a web app for the first time.](https://github.com/facebookincubator/create-react-app)
 - [Redux](http://redux.js.org/)
